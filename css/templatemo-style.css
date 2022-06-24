@@ -169,6 +169,13 @@ h5 {
 
 /* start home */
 #home {
+  /* background-color:hsla(321,10%,23%,1); */
+background-image:
+radial-gradient(at 37% 59%, hsla(334,8%,58%,1) 0px, transparent 50%),
+radial-gradient(at 85% 29%, hsla(358,87%,65%,1) 0px, transparent 50%),
+radial-gradient(at 59% 47%, hsla(144,8%,33%,1) 0px, transparent 50%),
+radial-gradient(at 1% 20%, hsla(343,91%,65%,1) 0px, transparent 50%),
+radial-gradient(at 36% 71%, hsla(287,90%,68%,1) 0px, transparent 50%);
   /* background: url('../images/home-bg.jpg'); */
   background-size: cover;
   background-repeat: no-repeat;
